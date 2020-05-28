@@ -65,7 +65,8 @@
       // if answer is wrong or blank
       else{
         // color the answers red
-        answerContainers[questionNumber].style.backgroundColor = 'red';
+        answerContainers[questionNumber].style.backgroundColor = 'red',
+        answerContainers[];
       }
     });
 

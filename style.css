@@ -80,8 +80,8 @@ body:last-child{
     top: 0px;
     width: 100%;
     z-index: 1;
-    opacity: 0;
-    transition: opacity 0.5s;
+    /* opacity: ; */
+    /* transition: opacity 0.5s; */
   }
   .active-slide{
     opacity: 1;
